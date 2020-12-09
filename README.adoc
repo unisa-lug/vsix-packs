@@ -1,0 +1,12 @@
+= Visual Studio Code Extension Packs
+
+This is a monorepo hosting sources for VSCode extension packs made by UNISA LUG.
+
+.Repository structure
+This repository is an aggregate of loosely related trees, each tracked by a branch. +
+Each extension pack resides in its own branch, named with the `vsix-pack-` prefix. +
+Checkout each branch for more info.
+
+The `main` branch is a special branch: +
+it's the branch in which this README resides,
+and it contains mount points for other branches.
