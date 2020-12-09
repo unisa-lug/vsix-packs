@@ -1,0 +1,27 @@
+{
+    "name"       : "vsx-pack-l8"
+  , "displayName": "UNISA LUG L8 Extension Pack"
+  , "description": "An extension pack designed to support L8 courses"
+  , "version"    : "0.0.1"
+  , "engines"    : { "vscode": "^1.51.0" }
+  , "categories" : [ "Extension Packs" ]
+  , "extensionPack": [
+      "unisa-lug.vsix-pack-basic"
+    , "christian-kohler.path-intellisense"
+    , "cschlosser.doxdocgen"
+    , "jebbs.plantuml"
+    , "kgrzywocz.wsl-path"
+    , "medo64.render-crlf"
+    , "ms-vscode.cpptools"
+    , "ms-vscode.hexeditor"
+    , "PKief.material-icon-theme"
+    , "puorc.awesome-vhdl"
+    , "vasilescur.better-mips"
+    , "CampbellHe.vscode-mips-mars"
+    , "redhat.java"
+    , "vscjava.vscode-java-debug"
+    , "vscjava.vscode-java-dependency"
+    , "richardwillis.vscode-gradle"
+    , "webfreak.debug"
+  ]
+}
