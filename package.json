@@ -1,0 +1,21 @@
+{
+    "name"       : "vsx-pack-basic"
+  , "displayName": "UNISA LUG Basic Extension Pack"
+  , "description": "Basic Extension Pack"
+  , "version"    : "0.0.1"
+  , "engines"    : { "vscode": "^1.51.0" }
+  , "categories" : [ "Extension Packs" ]
+  , "extensionPack": [
+      "arnohovhannisyan.syncify"
+    , "christian-kohler.path-intellisense"
+    , "Gruntfuggly.todo-tree"
+    , "IBM.output-colorizer"
+    , "kgrzywocz.wsl-path"
+    , "medo64.render-crlf"
+    , "rafaelmaiolla.diff"
+    , "moshfeu.compare-folders"
+    , "teabyii.ayu"
+    , "tobiasalthoff.atom-material-theme"
+    , "wwm.better-align"
+  ]
+}
